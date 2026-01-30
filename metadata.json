@@ -1,0 +1,5 @@
+{
+  "name": "NovaChat Connect",
+  "description": "A sleek, modern chat interface integrated with Google Authentication and a custom n8n webhook backend for seamless message processing.",
+  "requestFramePermissions": []
+}
